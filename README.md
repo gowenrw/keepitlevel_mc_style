@@ -1,2 +1,5 @@
 # keepitlevel_mc_style
-KeepItLevel Minecolonies Style Pack
+
+This is the KeepItLevel Minecolonies Style Pack by Gowenrw a.k.a. @alt_bier a.k.a. Richard Gowen
+
+

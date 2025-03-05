@@ -1,0 +1,15 @@
+{
+  "icon": "wooden.png",
+  "name": "KeepItLevel",
+  "authors": [
+    "gowenrw"
+  ],
+  "desc": "This pack has the goal of keeping a colony at a consistent level.  It uses platforms with modular buildings roads and rail to accomplish this.",
+  "mods": [
+  "domum_ornamentum",
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:sandstone",
+      "count": 6
+    }
+  ],
+  "min-building-level": 2,
+  "alternate-output" : [
+    {
+      "item": "minecraft:sandstone_slab",
+      "count": 12
+    },
+    {
+      "item": "minecraft:sandstone_wall",
+      "count": 6
+    },
+    {
+      "item": "minecraft:chiseled_sandstone",
+      "count": 6
+    },
+    {
+      "item": "minecraft:cut_sandstone",
+      "count": 6
+    },
+    {
+      "item": "minecraft:cut_sandstone_slab",
+      "count": 12
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "minecraft:sandstone_stairs",
+  "count": 4
+}

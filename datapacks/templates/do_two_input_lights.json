@@ -1,0 +1,44 @@
+{
+  "type": "recipe",
+  "crafter": "TEMPLATE_CRAFTER",
+  "inputs": [
+    {
+      "item": "TEMPLATE_ITEM_ONE",
+      "count": 1
+    },
+    {
+      "item": "TEMPLATE_ITEM_TWO",
+      "count": 1
+    }
+  ],
+  "min-building-level": 3,
+  "alternate-output" : [
+    {
+      "item": "domum_ornamentum:crossed_light{textureData:{\"minecraft:block/oak_planks\":\"TEMPLATE_ITEM_ONE\",\"minecraft:block/glowstone\":\"TEMPLATE_ITEM_TWO\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:fancy_light{textureData:{\"minecraft:block/oak_planks\":\"TEMPLATE_ITEM_ONE\",\"minecraft:block/glowstone\":\"TEMPLATE_ITEM_TWO\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:four_light{textureData:{\"minecraft:block/oak_planks\":\"TEMPLATE_ITEM_ONE\",\"minecraft:block/glowstone\":\"TEMPLATE_ITEM_TWO\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:framed_light{textureData:{\"minecraft:block/oak_planks\":\"TEMPLATE_ITEM_ONE\",\"minecraft:block/glowstone\":\"TEMPLATE_ITEM_TWO\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:horizontal_light{textureData:{\"minecraft:block/oak_planks\":\"TEMPLATE_ITEM_ONE\",\"minecraft:block/glowstone\":\"TEMPLATE_ITEM_TWO\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:vertical_light{textureData:{\"minecraft:block/oak_planks\":\"TEMPLATE_ITEM_ONE\",\"minecraft:block/glowstone\":\"TEMPLATE_ITEM_TWO\"}}",
+      "count": 2
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "domum_ornamentum:center_light{textureData:{\"minecraft:block/oak_planks\":\"TEMPLATE_ITEM_ONE\",\"minecraft:block/glowstone\":\"TEMPLATE_ITEM_TWO\"}}",
+  "count": 2
+}

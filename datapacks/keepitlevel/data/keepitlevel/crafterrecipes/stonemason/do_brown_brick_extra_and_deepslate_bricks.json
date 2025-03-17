@@ -1,0 +1,92 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_custom",
+  "inputs": [
+    {
+      "item": "brown_brick_extra",
+      "count": 1
+    },
+    {
+      "item": "deepslate_bricks",
+      "count": 1
+    }
+  ],
+  "min-building-level": 4,
+  "alternate-output" : [
+    {
+      "item": "domum_ornamentum:double_crossed{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:down_gated{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:fancy_door{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/acacia_planks\":\"deepslate_bricks\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:fancy_door{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/acacia_planks\":\"deepslate_bricks\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:fancy_trapdoors{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/acacia_planks\":\"deepslate_bricks\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:fancy_trapdoors{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/acacia_planks\":\"deepslate_bricks\"}}",
+      "count": 2
+    },
+    {
+      "item": "domum_ornamentum:framed{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:horizontal_plain{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:one_crossed_lr{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:one_crossed_rl{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:plain{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:shingle{textureData:{\"minecraft:block/clay\":\"brown_brick_extra\",\"minecraft:block/oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:shingle_flat{textureData:{\"minecraft:block/clay\":\"brown_brick_extra\",\"minecraft:block/oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:shingle_flat_lower{textureData:{\"minecraft:block/clay\":\"brown_brick_extra\",\"minecraft:block/oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:shingle_slab{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:side_framed{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:side_framed_horizontal{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    },
+    {
+      "item": "domum_ornamentum:up_gated{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "domum_ornamentum:blockpaperwall{textureData:{\"minecraft:block/oak_planks\":\"brown_brick_extra\",\"minecraft:block/dark_oak_planks\":\"deepslate_bricks\"}}",
+  "count": 6
+}

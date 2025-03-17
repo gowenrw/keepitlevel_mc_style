@@ -1,4 +1,640 @@
-# Domum Ornamentum Items For Recipies
+# What DO I Need?
+
+This is the list of Domum Ornamentum recipes needed by my style pack organized by crafter.
+
+## CUSTOM DO ITEM COMBOS BY CRAFTER
+
+CONCRETEMIXER
+```yaml
+do_blue_concrete:
+  level: 1
+  crafter: concretemixer_custom
+  item1: blue_concrete
+do_brown_concrete:
+  level: 1
+  crafter: concretemixer_custom
+  item1: brown_concrete
+do_light_blue_concrete:
+  level: 1
+  crafter: concretemixer_custom
+  item1: light_blue_concrete
+do_red_concrete:
+  level: 1
+  crafter: concretemixer_custom
+  item1: red_concrete
+do_white_concrete:
+  level: 1
+  crafter: concretemixer_custom
+  item1: white_concrete
+do_yellow_concrete:
+  level: 1
+  crafter: concretemixer_custom
+  item1: yellow_concrete
+do_cyan_concrete:
+  level: 2
+  crafter: concretemixer_custom
+  item1: cyan_concrete
+do_green_concrete:
+  level: 2
+  crafter: concretemixer_custom
+  item1: green_concrete
+do_lime_concrete:
+  level: 2
+  crafter: concretemixer_custom
+  item1: lime_concrete
+do_orange_concrete:
+  level: 2
+  crafter: concretemixer_custom
+  item1: orange_concrete
+do_pink_concrete:
+  level: 2
+  crafter: concretemixer_custom
+  item1: pink_concrete
+do_purple_concrete:
+  level: 2
+  crafter: concretemixer_custom
+  item1: purple_concrete
+do_blue_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: blue_concrete
+  item2: stone_bricks
+do_brown_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: brown_concrete
+  item2: stone_bricks
+do_cyan_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: cyan_concrete
+  item2: stone_bricks
+do_green_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: green_concrete
+  item2: stone_bricks
+do_light_blue_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: light_blue_concrete
+  item2: stone_bricks
+do_lime_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: lime_concrete
+  item2: stone_bricks
+do_orange_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: orange_concrete
+  item2: stone_bricks
+do_pink_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: pink_concrete
+  item2: stone_bricks
+do_purple_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: purple_concrete
+  item2: stone_bricks
+do_red_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: red_concrete
+  item2: stone_bricks
+do_white_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: white_concrete
+  item2: stone_bricks
+do_yellow_concrete_and_stone_bricks:
+  level: 3
+  crafter: concretemixer_custom
+  item1: yellow_concrete
+  item2: stone_bricks
+```
+
+GLASSBLOWER
+```yaml
+do_glass:
+  level: 1
+  crafter: glassblower_custom
+  item1: glass
+do_stone_and_glass:
+  level: 2
+  crafter: glassblower_custom
+  item1: stone
+  item2: glass
+```
+
+LUMBERJACK
+```yaml
+do_spruce_wood:
+  level: 1
+  crafter: lumberjack_custom
+  item1: spruce_wood
+do_stripped_spruce_wood:
+  level: 1
+  crafter: lumberjack_custom
+  item1: stripped_spruce_wood
+```
+
+MECHANIC
+```yaml
+do_copper_block:
+  level: 1
+  crafter: mechanic_custom
+  item1: copper_block
+do_waxed_copper_block:
+  level: 1
+  crafter: mechanic_custom
+  item1: waxed_copper_block
+do_deepslate_bricks_and_copper_block:
+  level: 4
+  crafter: mechanic_custom
+  item1: deepslate_bricks
+  item2: copper_block
+do_deepslate_bricks_and_waxed_copper_block:
+  level: 4
+  crafter: mechanic_custom
+  item1: deepslate_bricks
+  item2: waxed_copper_block
+```
+
+SAWMILL
+```yaml
+do_spruce_planks:
+  level: 1
+  crafter: sawmill_custom
+  item1: spruce_planks
+do_spruce_planks_and_stone:
+  level: 1
+  crafter: sawmill_custom
+  item1: spruce_planks
+  item2: stone
+do_spruce_wood_and_stone:
+  level: 1
+  crafter: sawmill_custom
+  item1: spruce_wood
+  item2: stone
+do_stripped_spruce_wood_and_spruce_wood:
+  level: 1
+  crafter: sawmill_custom
+  item1: stripped_spruce_wood
+  item2: spruce_wood
+do_spruce_planks_and_stone_bricks:
+  level: 2
+  crafter: sawmill_custom
+  item1: spruce_planks
+  item2: stone_bricks
+do_spruce_wood_and_stone_bricks:
+  level: 2
+  crafter: sawmill_custom
+  item1: spruce_wood
+  item2: stone_bricks
+do_stripped_spruce_wood_and_stone_bricks:
+  level: 2
+  crafter: sawmill_custom
+  item1: stripped_spruce_wood
+  item2: stone_bricks
+do_spruce_planks_and_raw_copper_block:
+  level: 3
+  crafter: sawmill_custom
+  item1: spruce_planks
+  item2: raw_copper_block
+do_spruce_planks_and_raw_iron_block:
+  level: 3
+  crafter: sawmill_custom
+  item1: spruce_planks
+  item2: raw_iron_block
+do_spruce_planks_and_deepslate_bricks:
+  level: 4
+  crafter: sawmill_custom
+  item1: spruce_planks
+  item2: deepslate_bricks
+```
+
+STONEMASON
+```yaml
+do_mud_bricks:
+  level: 1
+  crafter: stonemason_custom
+  item1: mud_bricks
+do_stone:
+  level: 1
+  crafter: stonemason_custom
+  item1: stone
+do_stone_and_spruce_planks:
+  level: 1
+  crafter: stonemason_custom
+  item1: stone
+  item2: spruce_planks
+do_mud_bricks_and_stone_bricks:
+  level: 2
+  crafter: stonemason_custom
+  item1: mud_bricks
+  item2: stone_bricks
+do_orange_brick_extra:
+  level: 2
+  crafter: stonemason_custom
+  item1: orange_brick_extra
+do_orange_brick_extra_and_stone_bricks:
+  level: 2
+  crafter: stonemason_custom
+  item1: orange_brick_extra
+  item2: stone_bricks
+do_sandstone:
+  level: 2
+  crafter: stonemason_custom
+  item1: sandstone
+do_sandstone_and_stone_bricks:
+  level: 2
+  crafter: stonemason_custom
+  item1: sandstone
+  item2: stone_bricks
+do_smooth_stone:
+  level: 2
+  crafter: stonemason_custom
+  item1: smooth_stone
+do_stone_bricks:
+  level: 2
+  crafter: stonemason_custom
+  item1: stone_bricks
+do_stone_bricks_and_mud_bricks:
+  level: 2
+  crafter: stonemason_custom
+  item1: stone_bricks
+  item2: mud_bricks
+do_stone_bricks_and_orange_brick_extra:
+  level: 2
+  crafter: stonemason_custom
+  item1: stone_bricks
+  item2: orange_brick_extra
+do_nether_bricks:
+  level: 3
+  crafter: stonemason_custom
+  item1: nether_bricks
+do_nether_bricks_and_glowstone:
+  level: 3
+  crafter: stonemason_custom
+  item1: nether_bricks
+  item2: glowstone
+do_nether_bricks_and_netherrack:
+  level: 3
+  crafter: stonemason_custom
+  item1: nether_bricks
+  item2: netherrack
+do_nether_bricks_and_stone_bricks:
+  level: 3
+  crafter: stonemason_custom
+  item1: nether_bricks
+  item2: stone_bricks
+do_netherrack:
+  level: 3
+  crafter: stonemason_custom
+  item1: netherrack
+do_netherrack_and_spruce_planks:
+  level: 3
+  crafter: stonemason_custom
+  item1: netherrack
+  item2: spruce_planks
+do_netherrack_and_stone_bricks:
+  level: 3
+  crafter: stonemason_custom
+  item1: netherrack
+  item2: stone_bricks
+do_polished_granite_and_stone_bricks:
+  level: 3
+  crafter: stonemason_custom
+  item1: polished_granite
+  item2: stone_bricks
+do_quartz_block:
+  level: 3
+  crafter: stonemason_custom
+  item1: quartz_block
+do_quartz_block_and_glowstone:
+  level: 3
+  crafter: stonemason_custom
+  item1: quartz_block
+  item2: glowstone
+do_quartz_block_and_netherrack:
+  level: 3
+  crafter: stonemason_custom
+  item1: quartz_block
+  item2: netherrack
+do_red_brick_extra:
+  level: 3
+  crafter: stonemason_custom
+  item1: red_brick_extra
+do_red_brick_extra_and_stone_bricks:
+  level: 3
+  crafter: stonemason_custom
+  item1: red_brick_extra
+  item2: stone_bricks
+do_stone_and_netherrack:
+  level: 3
+  crafter: stonemason_custom
+  item1: stone
+  item2: netherrack
+do_stone_bricks_and_glowstone:
+  level: 3
+  crafter: stonemason_custom
+  item1: stone_bricks
+  item2: glowstone
+do_stone_bricks_and_nether_bricks:
+  level: 3
+  crafter: stonemason_custom
+  item1: stone_bricks
+  item2: nether_bricks
+do_stone_bricks_and_netherrack:
+  level: 3
+  crafter: stonemason_custom
+  item1: stone_bricks
+  item2: netherrack
+do_stone_bricks_and_red_brick_extra:
+  level: 3
+  crafter: stonemason_custom
+  item1: stone_bricks
+  item2: red_brick_extra
+do_brown_brick_extra:
+  level: 4
+  crafter: stonemason_custom
+  item1: brown_brick_extra
+do_brown_brick_extra_and_deepslate_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: brown_brick_extra
+  item2: deepslate_bricks
+do_cyan_brick_extra:
+  level: 4
+  crafter: stonemason_custom
+  item1: cyan_brick_extra
+do_cyan_brick_extra_and_deepslate_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: cyan_brick_extra
+  item2: deepslate_bricks
+do_dark_prismarine:
+  level: 4
+  crafter: stonemason_custom
+  item1: dark_prismarine
+do_dark_prismarine_and_deepslate_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: dark_prismarine
+  item2: deepslate_bricks
+do_deepslate_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+do_deepslate_bricks_and_dark_prismarine:
+  level: 4
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: dark_prismarine
+do_deepslate_bricks_and_glowstone:
+  level: 4
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: glowstone
+do_deepslate_bricks_and_lime_brick_extra:
+  level: 4
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: lime_brick_extra
+do_deepslate_bricks_and_prismarine:
+  level: 4
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: prismarine
+do_deepslate_bricks_and_prismarine_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: prismarine_bricks
+do_deepslate_bricks_and_sandstone:
+  level: 4
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: sandstone
+do_lime_brick_extra:
+  level: 4
+  crafter: stonemason_custom
+  item1: lime_brick_extra
+do_lime_brick_extra_and_deepslate_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: lime_brick_extra
+  item2: deepslate_bricks
+do_polished_deepslate:
+  level: 4
+  crafter: stonemason_custom
+  item1: polished_deepslate
+do_polished_deepslate_and_prismarine:
+  level: 4
+  crafter: stonemason_custom
+  item1: polished_deepslate
+  item2: prismarine
+do_prismarine:
+  level: 4
+  crafter: stonemason_custom
+  item1: prismarine
+do_prismarine_and_deepslate_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: prismarine
+  item2: deepslate_bricks
+do_prismarine_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: prismarine_bricks
+do_prismarine_bricks_and_deepslate_bricks:
+  level: 4
+  crafter: stonemason_custom
+  item1: prismarine_bricks
+  item2: deepslate_bricks
+do_prismarine_bricks_and_glowstone:
+  level: 4
+  crafter: stonemason_custom
+  item1: prismarine_bricks
+  item2: glowstone
+do_deepslate_bricks_and_end_stone_bricks:
+  level: 5
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: end_stone_bricks
+do_deepslate_bricks_and_purple_cobblestone_extra:
+  level: 5
+  crafter: stonemason_custom
+  item1: deepslate_bricks
+  item2: purple_cobblestone_extra
+do_end_stone_and_deepslate_bricks:
+  level: 5
+  crafter: stonemason_custom
+  item1: end_stone
+  item2: deepslate_bricks
+do_end_stone_bricks:
+  level: 5
+  crafter: stonemason_custom
+  item1: end_stone_bricks
+do_end_stone_bricks_and_deepslate_bricks:
+  level: 5
+  crafter: stonemason_custom
+  item1: end_stone_bricks
+  item2: deepslate_bricks
+do_end_stone_bricks_and_glowstone:
+  level: 5
+  crafter: stonemason_custom
+  item1: end_stone_bricks
+  item2: glowstone
+do_polished_deepslate_and_end_stone:
+  level: 5
+  crafter: stonemason_custom
+  item1: polished_deepslate
+  item2: end_stone
+do_purple_cobblestone_extra:
+  level: 5
+  crafter: stonemason_custom
+  item1: purple_cobblestone_extra
+do_purple_cobblestone_extra_and_deepslate_bricks:
+  level: 5
+  crafter: stonemason_custom
+  item1: purple_cobblestone_extra
+  item2: deepslate_bricks
+do_purple_cobblestone_extra_and_end_stone_bricks:
+  level: 5
+  crafter: stonemason_custom
+  item1: purple_cobblestone_extra
+  item2: end_stone_bricks
+```
+
+# What Vanilla crafting do I need?
+
+This is the list of Vanilla recipes needed by my style pack organized by crafter.
+
+Note: This is for crafting NOT smelting
+
+## Vanilla Base Blocks Need Crafts From
+
+List of base vanilla blocks to base my vanilla crafting on:
+* spruce_planks
+  * stairs, slab, door, trapdoor, fence, fence-gate, stick, ladder
+* spruce_wood
+  * planks, log
+* cobblestone
+  * stairs, slab, wall
+* stone
+  * stairs, slab, stone_bricks
+* stone_bricks
+  * stairs, slab, wall, chiseled
+* granite
+  * stairs, slab, wall, polished, polished-stairs, polished-slab
+* andesite
+  * stairs, slab, wall, polished, polished-stairs, polished-slab
+* mud_bricks
+  * stairs, slab, wall
+* sandstone
+  * stairs, slab, wall, chiseled, cut, cut-slab
+
+* glass
+  * glass_bottle, glass_pane
+
+* nether_bricks
+  * stairs, slab, wall, fence, chiseled
+* quartz_block
+  * stairs, slab, pillar, bricks, chiseled
+* smooth_quartz
+  * stairs, slab
+* copper_block
+  * cut_copper, cut_copper-stairs, cut_copper-slab
+
+
+* cobbled_deepslate
+  * stairs, slab, wall, polished
+* polished_deepslate
+  * stairs, slab, wall, bricks
+* deepslate_bricks
+  * stairs, slab, wall, tiles
+* prismarine
+  * stairs, slab, wall
+* prismarine_bricks
+  * stairs, slab
+* dark_prismarine
+  * stairs, slab
+
+* end_stone_bricks
+  * stairs, slab, wall
+
+
+## CRAFTING VANILLA ITEMS BY CRAFTER
+
+LUMBERJACK
+```yaml
+v_spruce_planks:
+  level: 1
+  crafter: lumberjack_custom
+  item1: spruce_planks
+v_spruce_wood:
+  level: 1
+  crafter: lumberjack_custom
+  item1: spruce_wood
+```
+
+STONEMASON
+```yaml
+v_cobblestone:
+  level: 1
+  crafter: stonemason_crafting
+  item1: cobblestone
+v_stone:
+  level: 1
+  crafter: stonemason_crafting
+  item1: stone
+v_andesite:
+  level: 2
+  crafter: stonemason_crafting
+  item1: andesite
+v_granite:
+  level: 2
+  crafter: stonemason_crafting
+  item1: granite
+v_mud_bricks:
+  level: 2
+  crafter: stonemason_crafting
+  item1: mud_bricks
+v_sandstone:
+  level: 2
+  crafter: stonemason_crafting
+  item1: sandstone
+v_stone_bricks:
+  level: 2
+  crafter: stonemason_crafting
+  item1: stone_bricks
+```
+
+# What Vanilla smelting do I need?
+
+This is the list of Vanilla smelting needed by my style pack organized by crafter.
+
+Note: This is for smelting NOT crafting
+
+## Vanilla Base Blocks Need To Be Smelted
+
+List of base vanilla blocks to base my vanilla crafting on:
+* spruce_planks
+  * stairs, slab, door, trapdoor, fence, fence-gate, stick, ladder
+* spruce_wood
+  * planks, log
+
+
+## SMELTING VANILLA ITEMS BY CRAFTER
+
+
+
+
+# Domum Ornamentum Item Info For Recipes
 
 ## BRICKS
 
@@ -20,7 +656,7 @@ give command examples
 /give @s domum_ornamentum:light_brick_stair{textureData:{"minecraft:block/oak_planks":"minecraft:netherrack"}} 1
 ```
 
-# TIMBERFRAMES
+## TIMBERFRAMES
 
 types:
 * double_crossed
@@ -46,7 +682,7 @@ give command examples
 /give @s domum_ornamentum:horizontal_plain{textureData:{"minecraft:block/oak_planks":"minecraft:stone_bricks","minecraft:block/dark_oak_planks":"minecraft:netherrack"}} 1
 ```
 
-# LIGHTS
+## LIGHTS
 
 types:
 * center_light
@@ -69,7 +705,7 @@ give command examples
 /give @s domum_ornamentum:fancy_light{textureData:{"minecraft:block/oak_planks":"minecraft:deepslate_bricks","minecraft:block/glowstone":"minecraft:glowstone"}} 1
 ```
 
-# SHINGLES
+## SHINGLES
 
 types:
 * shingle
@@ -91,7 +727,7 @@ give command examples
 /give @s domum_ornamentum:shingle{textureData:{"minecraft:block/oak_planks":"minecraft:deepslate_bricks","minecraft:block/clay":"minecraft:spruce_planks"}} 1
 ```
 
-# PILLARS
+## PILLARS
 
 types:
 * blockpillar
@@ -109,7 +745,7 @@ give command examples
 /give @s domum_ornamentum:squarepillar{textureData:{"minecraft:block/oak_planks":"minecraft:sandstone"}} 1
 ```
 
-# DOORS
+## DOORS
 
 types:
 * vanilla_doors_compat
@@ -140,7 +776,7 @@ give command examples
 /give @s domum_ornamentum:fancy_door{type:"creeper",textureData:{"minecraft:block/oak_planks":"minecraft:deepslate_bricks","minecraft:block/acacia_planks":"minecraft:spruce_planks"}} 1
 ```
 
-# PAPERWALLS
+## PAPERWALLS
 
 types:
 * blockpaperwall
@@ -155,7 +791,7 @@ give command examples
 /give @s domum_ornamentum:blockpaperwall{textureData:{"minecraft:block/oak_planks":"minecraft:stone_bricks","minecraft:block/dark_oak_planks":"minecraft:netherrack"}} 1
 ```
 
-# PANELS
+## PANELS
 
 types:
 * panel
@@ -184,7 +820,7 @@ give command examples
 /give @s domum_ornamentum:panel{type:"horizontally_striped",textureData:{"minecraft:block/oak_planks":"minecraft:sandstone"}} 1
 ```
 
-# TRAPDOORS
+## TRAPDOORS
 
 types:
 * vanilla_trapdoors_compat
@@ -222,7 +858,7 @@ give command examples
 /give @s domum_ornamentum:fancy_trapdoors{type:"creeper",textureData:{"minecraft:block/oak_planks":"minecraft:deepslate_bricks","minecraft:block/acacia_planks":"minecraft:spruce_planks"}} 1
 ```
 
-# POSTS
+## POSTS
 
 types:
 * post
@@ -243,7 +879,7 @@ give command examples
 /give @s domum_ornamentum:post{type:"quad",textureData:{"minecraft:block/oak_planks":"minecraft:sandstone"}} 1
 ```
 
-# VANILLA BLOCKS
+## VANILLA BLOCKS
 
 types:
 * vanilla_fence_compat
@@ -261,151 +897,135 @@ give command examples
 /give @s domum_ornamentum:vanilla_fence_compat{textureData:{"minecraft:block/oak_planks":"minecraft:sandstone"}} 1
 ```
 
-# Random Notes
-
-Need to tie Recipies to building level or nether/end achievement...
-how do we do this?
-
-open the nether
-```json
-  "effects": [
-    {
-      "minecolonies:effects/blockhutnetherworker": 1
-    }
-  ],
-```
-
-knowledge of the depth
-```json
-  "effects": [
-    {
-      "minecolonies:effects/knowledgeofthedepthsunlock": 1
-    }
-  ],
-```
-
-know the end
-```json
-  "effects": [
-    {
-      "minecolonies:effects/knowledgeoftheendunlock": 1
-    }
-  ],
-```
-
-usage in a recipie
-```json
-  "research-id": "minecolonies:effects/knowledgeoftheendunlock",
-```
-
-So my lvl1 and lvl2 recipies both added with no research requirement
-
-lvl3 recipies will require 'Open The Nether' research and hut level 2
-
-lvl4 recipies will require 'Knowledge of the Depth' research and hut level 3
-
-lvl5 recipies will require 'Know the End' research and hut level 4
-
-
-# What DO do I Need?
-
-## CUSTOM ITEM COMBOS
-
-```yaml
-# sawmill - item1 = wood
-do_spruce_planks_and_spruce_wood:
-  level: 1
-  item1: spruce_planks
-  item2: spruce_wood
-do_stripped_spruce_wood_and_spruce_wood:
-  level: 1
-  item1: stripped_spruce_wood
-  item2: spruce_wood
-do_spruce_planks_and_stone:
-  level: 2
-  item1: spruce_planks
-  item2: stone
-do_spruce_wood_and_stone_bricks:
-  level: 2
-  item1: spruce_wood
-  item2: stone_bricks
-do_stripped_spruce_wood_and_stone_bricks:
-  level: 2
-  item1: stripped_spruce_wood
-  item2: stone_bricks
-do_spruce_wood:
-  level: 1
-  item1: spruce_wood
-do_spruce_planks:
-  level: 1
-  item1: spruce_planks
-# stone_mason - item1 = stone
-do_mud_bricks_and_stone_bricks:
-  level: 2
-  item1: mud_bricks
-  item2: stone_bricks
-do_stone_bricks_and_mud_bricks:
-  level: 2
-  item1: stone_bricks
-  item2: mud_bricks
-do_polished_granite_and_stone_bricks:
-  level: 2
-  item1: polished_granite
-  item2: stone_bricks
-do_stone_and_spruce_planks:
-  level: 1
-  item1: stone
-  item2: spruce_planks
-do_stone:
-  level: 1
-  item1: stone
-do_stone_bricks:
-  level: 1
-  item1: stone_bricks
-do_mud_bricks:
-  level: 2
-  item1: mud_bricks
-# concrete_mixer
-do_white_concrete:
-  level: 2
-  item1: white_concrete
-
-```
-
 # Who builds what?
 
-stonemason
-* recipie count by level 1/10, 2/20, 3/40, 4/80, 5/160
-* Stonemason will craft 3x3 recipes made entirely out of cobblestone, stone, andesite, diorite, granite, quartz, purpur, nether bricks, prismarine, sandstones, blackstone, basalt, and/or ores (no ingots or redstone items).
+Some info gathered on which huts build what types of items and information about them.
 
-stonesmelter
-* recipie count by level
-* Stone Smelter will smelt cobblestone into stone, stone bricks into cracked stone bricks, clay balls into bricks, clay blocks into terracotta, terracotta into glazed terracotta, all types of stone into all types of smooth stone, and logs into charcoal. They can also pop chorus fruits!
+## Builder
 
-smelter
-* recipie count by level
-* Smelter will smelt ores into ingots.
+* Very limited crafting
+* Crafting Recipes
+  * Teachable
+  * Vanilla 2x2 Recipes
+  * Recipe Count Limit: 1/2, 2/4, 3/?, 4/?, 5/?
+* Custom Recipes
+  * NONE
 
-sawmill
-* recipie count by level 1/10, 2/20, 3/40, 4/80, 5/160
-* Carpenter will craft any items made of at least 75% wood that do not include ingots, stone, redstone (or produce a redstone signal), or string. The Carpenter will also craft a few other items, including Rack, as well as Domum Ornamentum blocks that include wood.
+## Miner
 
-dyer
-* recipie count by level 1/10, 2/20, 3/40, 4/80, 5/160
-* Dyer will craft dyes and dye other items, including red nether bricks and dark prismarine. They won't dye concrete or concrete powder, though.
+* Very limited crafting
+* Crafting Recipes
+  * Teachable
+  * Vanilla 2x2 Recipes
+  * Recipe Count Limit: 1/2, 2/4, 3/?, 4/?, 5/?
+* Custom Recipes
+  * NONE
 
-concretemixer
-* recipie count by level
-* Concrete Mixer will craft all types of concrete powder and place them in flowing water (built in to their hut), then mine the resulting concrete.
+## Lumberjack
 
-fletcher
-* recipie count by level 1/10, 2/20, 3/40, 4/80, 5/160
-* Fletcher will craft arrows and items that use string or wool, such as bows, fishing rods, and paintings
+* No Teachable Crafting
+* Crafting Recipes
+  * NONE
+* Custom Recipes
+  * Can be defined but not taught
+  * Vanilla and DO Recipes work here
+  * Recipe Count Limit: ?
 
-lumberjack
-* recipie count by level
-* Forester will go in between chopping down trees. The Forester will cut down any tree in an approximate 150 block area (from themselves)
+## Concretemixer
 
-mechanic
-* recipie count by level 1/10, 2/20, 3/40, 4/80, 5/160
-* Mechanic will craft redstone items, rails, minecarts, clocks, compasses, sea lanterns, torches, lanterns, jack-o-lanterns, storage blocks (like blocks of iron, coal, quartz, etc), dried kelp blocks, blue ice, packed ice, enchantment tables, ender chests, tripwire hooks, sticky pistons, Multi Piston, glowstone blocks, anything made with blaze rods, and many other items that no other crafter can make.
+* No Teachable Crafting
+* Crafting Recipes
+  * NONE
+* Custom Recipes
+  * Can be defined but not taught
+  * Vanilla and DO Recipes work here
+  * Recipe Count Limit: ?
+
+## Netherminer
+
+* No Teachable Crafting
+* Crafting Recipes
+  * NONE
+* Custom Recipes
+  * Can be defined but not taught
+  * Vanilla and DO Recipes work here
+  * Recipe Count Limit: ?
+
+## Blacksmith
+
+* Primary tool and armor crafter
+* Crafting Recipes
+  * Teachable
+  * Vanilla 3x3 Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+* Custom Recipes
+  * NONE
+
+## Sawmill
+
+* Primary wood crafter
+* Crafting Recipes
+  * Teachable
+  * Vanilla 3x3 Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+* Custom Recipes
+  * Teachable
+  * DO Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+
+## Stonemason
+
+* Primary stone crafter
+* Crafting Recipes
+  * Teachable
+  * Vanilla 3x3 Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+* Custom Recipes
+  * Teachable
+  * DO Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+
+## Glassblower
+
+* Primary glass crafter
+* Crafting Recipes
+  * Teachable
+  * Vanilla 3x3 Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+* Custom Recipes
+  * Teachable
+  * DO Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+
+## Mechanic
+
+* Primary redstone crafter
+* Crafting Recipes
+  * Teachable
+  * Vanilla 3x3 Recipes
+  * Recipe Count Limit: 1/15, 2/20, 3/40, 4/80, 5/160 <only lvl1 confirmed>
+* Custom Recipes
+  * Teachable
+  * DO Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+
+## Fletcher
+
+* Primary string and wool crafter
+* Crafting Recipes
+  * Teachable
+  * Vanilla 3x3 Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+* Custom Recipes
+  * Teachable
+  * DO Recipes
+  * Recipe Count Limit: 1/10, 2/20, 3/40, 4/80, 5/160
+
+# Vanilla Recipe Notes
+
+Vanilla block id lookup
+* https://minecraftitemids.com/
+
+Minecraft Wiki for item recipe lookup
+* https://minecraft.wiki/
+

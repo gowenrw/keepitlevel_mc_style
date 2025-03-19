@@ -1,0 +1,24 @@
+{
+  "type": "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:copper_block",
+      "count": 6
+    }
+  ],
+  "min-building-level": 1,
+  "alternate-output" : [
+    {
+      "item": "minecraft:cut_copper_slab",
+      "count": 12
+    },
+    {
+      "item": "minecraft:cut_copper_stairs",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "minecraft:cut_copper",
+  "count": 6
+}

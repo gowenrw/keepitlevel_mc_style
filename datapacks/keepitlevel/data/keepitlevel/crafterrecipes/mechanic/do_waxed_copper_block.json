@@ -7,7 +7,7 @@
       "count": 1
     }
   ],
-  "min-building-level": 1,
+  "min-building-level": 2,
   "alternate-output" : [
     {
       "item": "domum_ornamentum:blockypillar{textureData:{\"minecraft:block/oak_planks\":\"waxed_copper_block\"}}",

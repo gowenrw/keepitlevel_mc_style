@@ -148,7 +148,7 @@ do_copper_block:
   crafter: mechanic_custom
   item1: copper_block
 do_waxed_copper_block:
-  level: 1
+  level: 2
   crafter: mechanic_custom
   item1: waxed_copper_block
 do_deepslate_bricks_and_copper_block:
@@ -537,20 +537,18 @@ List of base vanilla blocks to base my vanilla crafting on:
   * stairs, slab, wall
 * sandstone
   * stairs, slab, wall, chiseled, cut, cut-slab
-
 * glass
-  * glass_bottle, glass_pane
-
+  * glass_bottle, glass_pane, large_empty_bottle
+* copper_block
+  * cut_copper, cut_copper-stairs, cut_copper-slab
+* waxed_copper_block
+  * waxed_cut_copper, waxed_cut_copper-stairs, waxed_cut_copper-slab
 * nether_bricks
   * stairs, slab, wall, fence, chiseled
 * quartz_block
   * stairs, slab, pillar, bricks, chiseled
 * smooth_quartz
   * stairs, slab
-* copper_block
-  * cut_copper, cut_copper-stairs, cut_copper-slab
-
-
 * cobbled_deepslate
   * stairs, slab, wall, polished
 * polished_deepslate
@@ -563,12 +561,18 @@ List of base vanilla blocks to base my vanilla crafting on:
   * stairs, slab
 * dark_prismarine
   * stairs, slab
-
 * end_stone_bricks
   * stairs, slab, wall
 
-
 ## CRAFTING VANILLA ITEMS BY CRAFTER
+
+GLASSBLOWER
+```yaml
+v_glass:
+  level: 1
+  crafter: glassblower_crafting
+  item1: glass
+```
 
 LUMBERJACK
 ```yaml
@@ -580,6 +584,18 @@ v_spruce_wood:
   level: 1
   crafter: lumberjack_custom
   item1: spruce_wood
+```
+
+MECHANIC
+```yaml
+v_copper_block:
+  level: 1
+  crafter: mechanic_crafting
+  item1: copper_block
+v_waxed_copper_block:
+  level: 2
+  crafter: mechanic_crafting
+  item1: waxed_copper_block
 ```
 
 STONEMASON
@@ -612,6 +628,50 @@ v_stone_bricks:
   level: 2
   crafter: stonemason_crafting
   item1: stone_bricks
+v_stone_bricks:
+  level: 2
+  crafter: stonemason_crafting
+  item1: stone_bricks
+v_nether_bricks:
+  level: 3
+  crafter: stonemason_crafting
+  item1: nether_bricks
+v_quartz_block:
+  level: 3
+  crafter: stonemason_crafting
+  item1: quartz_block
+v_smooth_quartz:
+  level: 3
+  crafter: stonemason_crafting
+  item1: smooth_quartz
+v_cobbled_deepslate:
+  level: 4
+  crafter: stonemason_crafting
+  item1: cobbled_deepslate
+v_polished_deepslate:
+  level: 4
+  crafter: stonemason_crafting
+  item1: polished_deepslate
+v_deepslate_bricks:
+  level: 4
+  crafter: stonemason_crafting
+  item1: deepslate_bricks
+v_prismarine:
+  level: 4
+  crafter: stonemason_crafting
+  item1: prismarine
+v_prismarine_bricks:
+  level: 4
+  crafter: stonemason_crafting
+  item1: prismarine_bricks
+v_dark_prismarine:
+  level: 4
+  crafter: stonemason_crafting
+  item1: dark_prismarine
+v_end_stone_bricks:
+  level: 5
+  crafter: stonemason_crafting
+  item1: end_stone_bricks
 ```
 
 # What Vanilla smelting do I need?
@@ -623,10 +683,7 @@ Note: This is for smelting NOT crafting
 ## Vanilla Base Blocks Need To Be Smelted
 
 List of base vanilla blocks to base my vanilla crafting on:
-* spruce_planks
-  * stairs, slab, door, trapdoor, fence, fence-gate, stick, ladder
-* spruce_wood
-  * planks, log
+
 
 
 ## SMELTING VANILLA ITEMS BY CRAFTER

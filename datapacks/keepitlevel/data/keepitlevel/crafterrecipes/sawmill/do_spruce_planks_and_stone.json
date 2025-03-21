@@ -3,90 +3,90 @@
   "crafter": "sawmill_custom",
   "inputs": [
     {
-      "item": "spruce_planks",
+      "item": "minecraft:spruce_planks",
       "count": 1
     },
     {
-      "item": "stone",
+      "item": "minecraft:stone",
       "count": 1
     }
   ],
   "min-building-level": 1,
   "alternate-output" : [
     {
-      "item": "domum_ornamentum:double_crossed{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:double_crossed{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:down_gated{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:down_gated{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:fancy_door{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/acacia_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:fancy_door{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/acacia_planks\":\"minecraft:stone\"}}",
       "count": 2
     },
     {
-      "item": "domum_ornamentum:fancy_door{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/acacia_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:fancy_door{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/acacia_planks\":\"minecraft:stone\"}}",
       "count": 2
     },
     {
-      "item": "domum_ornamentum:fancy_trapdoors{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/acacia_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:fancy_trapdoors{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/acacia_planks\":\"minecraft:stone\"}}",
       "count": 2
     },
     {
-      "item": "domum_ornamentum:fancy_trapdoors{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/acacia_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:fancy_trapdoors{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/acacia_planks\":\"minecraft:stone\"}}",
       "count": 2
     },
     {
-      "item": "domum_ornamentum:framed{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:framed{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:horizontal_plain{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:horizontal_plain{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:one_crossed_lr{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:one_crossed_lr{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:one_crossed_rl{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:one_crossed_rl{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:plain{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:plain{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:shingle{textureData:{\"minecraft:block/clay\":\"spruce_planks\",\"minecraft:block/oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:shingle{textureData:{\"minecraft:block/clay\":\"minecraft:spruce_planks\",\"minecraft:block/oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:shingle_flat{textureData:{\"minecraft:block/clay\":\"spruce_planks\",\"minecraft:block/oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:shingle_flat{textureData:{\"minecraft:block/clay\":\"minecraft:spruce_planks\",\"minecraft:block/oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:shingle_flat_lower{textureData:{\"minecraft:block/clay\":\"spruce_planks\",\"minecraft:block/oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:shingle_flat_lower{textureData:{\"minecraft:block/clay\":\"minecraft:spruce_planks\",\"minecraft:block/oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:shingle_slab{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:shingle_slab{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:side_framed{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:side_framed{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:side_framed_horizontal{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:side_framed_horizontal{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:up_gated{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+      "item": "domum_ornamentum:up_gated{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
       "count": 4
     }
   ],
   "intermediate": "minecraft:air",
-  "result": "domum_ornamentum:blockpaperwall{textureData:{\"minecraft:block/oak_planks\":\"spruce_planks\",\"minecraft:block/dark_oak_planks\":\"stone\"}}",
+  "result": "domum_ornamentum:blockpaperwall{textureData:{\"minecraft:block/oak_planks\":\"minecraft:spruce_planks\",\"minecraft:block/dark_oak_planks\":\"minecraft:stone\"}}",
   "count": 6
 }

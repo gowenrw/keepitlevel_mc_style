@@ -12,8 +12,8 @@ To make it easier on myself as well as anyone else using this style pack I put t
 
 ## Installation
 
-To install this style pack, download the latest blueprint zip file [keepitlevel_stylepack.zip](/blueprints/keepitlevel_stylepack.zip) and UNZIP it into your blueprint folder per [these Minecolonies instructions](https://minecolonies.com/wiki/tutorials/schematics#how-do-i-install-custom-schematics-i-just-downloaded).
+To install this style pack, download the latest blueprint zip file [keepitlevel_stylepack.zip](https://github.com/gowenrw/keepitlevel_mc_style/raw/refs/heads/main/blueprints/keepitlevel_stylepack.zip) and UNZIP it into your blueprint folder per [these Minecolonies instructions](https://minecolonies.com/wiki/tutorials/schematics#how-do-i-install-custom-schematics-i-just-downloaded).
 
-To install the optional datapack that supports this style, download the latest blueprint zip file [keepitlevel_datapack.zip](/datapacks/keepitlevel_datapack.zip) COPY it (No need to unzip) into your World Save datapacks folder per [these Minecraft instructions](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack).  Note that Data packs exist as part of a specific world.  So unlike stylepack blueprints, datapacks must be installed in each world save directory you wish it to be active on.
+To install the optional datapack that supports this style, download the latest blueprint zip file [keepitlevel_datapack.zip](https://github.com/gowenrw/keepitlevel_mc_style/raw/refs/heads/main/datapacks/keepitlevel_datapack.zip) COPY it (No need to unzip) into your World Save datapacks folder per [these Minecraft instructions](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack).  Note that Data packs exist as part of a specific world.  So unlike stylepack blueprints, datapacks must be installed in each world save directory you wish it to be active on.
 
 

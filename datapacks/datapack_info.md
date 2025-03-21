@@ -239,11 +239,11 @@ do_mud_bricks_and_stone_bricks:
 do_orange_brick_extra:
   level: 2
   crafter: stonemason_custom
-  item1: orange_brick_extra
+  item1: "domum_ornamentum:orange_brick_extra"
 do_orange_brick_extra_and_stone_bricks:
   level: 2
   crafter: stonemason_custom
-  item1: orange_brick_extra
+  item1: "domum_ornamentum:orange_brick_extra"
   item2: stone_bricks
 do_sandstone:
   level: 2
@@ -271,7 +271,7 @@ do_stone_bricks_and_orange_brick_extra:
   level: 2
   crafter: stonemason_custom
   item1: stone_bricks
-  item2: orange_brick_extra
+  item2: "domum_ornamentum:orange_brick_extra"
 do_nether_bricks:
   level: 3
   crafter: stonemason_custom
@@ -327,11 +327,11 @@ do_quartz_block_and_netherrack:
 do_red_brick_extra:
   level: 3
   crafter: stonemason_custom
-  item1: red_brick_extra
+  item1: "domum_ornamentum:red_brick_extra"
 do_red_brick_extra_and_stone_bricks:
   level: 3
   crafter: stonemason_custom
-  item1: red_brick_extra
+  item1: "domum_ornamentum:red_brick_extra"
   item2: stone_bricks
 do_stone_and_netherrack:
   level: 3
@@ -357,24 +357,24 @@ do_stone_bricks_and_red_brick_extra:
   level: 3
   crafter: stonemason_custom
   item1: stone_bricks
-  item2: red_brick_extra
+  item2: "domum_ornamentum:red_brick_extra"
 do_brown_brick_extra:
   level: 4
   crafter: stonemason_custom
-  item1: brown_brick_extra
+  item1: "domum_ornamentum:brown_brick_extra"
 do_brown_brick_extra_and_deepslate_bricks:
   level: 4
   crafter: stonemason_custom
-  item1: brown_brick_extra
+  item1: "domum_ornamentum:brown_brick_extra"
   item2: deepslate_bricks
 do_cyan_brick_extra:
   level: 4
   crafter: stonemason_custom
-  item1: cyan_brick_extra
+  item1: "domum_ornamentum:cyan_brick_extra"
 do_cyan_brick_extra_and_deepslate_bricks:
   level: 4
   crafter: stonemason_custom
-  item1: cyan_brick_extra
+  item1: "domum_ornamentum:cyan_brick_extra"
   item2: deepslate_bricks
 do_dark_prismarine:
   level: 4
@@ -403,7 +403,7 @@ do_deepslate_bricks_and_lime_brick_extra:
   level: 4
   crafter: stonemason_custom
   item1: deepslate_bricks
-  item2: lime_brick_extra
+  item2: "domum_ornamentum:lime_brick_extra"
 do_deepslate_bricks_and_prismarine:
   level: 4
   crafter: stonemason_custom
@@ -422,11 +422,11 @@ do_deepslate_bricks_and_sandstone:
 do_lime_brick_extra:
   level: 4
   crafter: stonemason_custom
-  item1: lime_brick_extra
+  item1: "domum_ornamentum:lime_brick_extra"
 do_lime_brick_extra_and_deepslate_bricks:
   level: 4
   crafter: stonemason_custom
-  item1: lime_brick_extra
+  item1: "domum_ornamentum:lime_brick_extra"
   item2: deepslate_bricks
 do_polished_deepslate:
   level: 4
@@ -469,7 +469,7 @@ do_deepslate_bricks_and_purple_cobblestone_extra:
   level: 5
   crafter: stonemason_custom
   item1: deepslate_bricks
-  item2: purple_cobblestone_extra
+  item2: "domum_ornamentum:purple_cobblestone_extra"
 do_end_stone_and_deepslate_bricks:
   level: 5
   crafter: stonemason_custom
@@ -497,16 +497,16 @@ do_polished_deepslate_and_end_stone:
 do_purple_cobblestone_extra:
   level: 5
   crafter: stonemason_custom
-  item1: purple_cobblestone_extra
+  item1: "domum_ornamentum:purple_cobblestone_extra"
 do_purple_cobblestone_extra_and_deepslate_bricks:
   level: 5
   crafter: stonemason_custom
-  item1: purple_cobblestone_extra
+  item1: "domum_ornamentum:purple_cobblestone_extra"
   item2: deepslate_bricks
 do_purple_cobblestone_extra_and_end_stone_bricks:
   level: 5
   crafter: stonemason_custom
-  item1: purple_cobblestone_extra
+  item1: "domum_ornamentum:purple_cobblestone_extra"
   item2: end_stone_bricks
 ```
 

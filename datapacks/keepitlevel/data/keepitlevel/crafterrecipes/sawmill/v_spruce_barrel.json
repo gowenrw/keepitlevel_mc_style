@@ -1,0 +1,28 @@
+{
+  "type": "recipe",
+  "crafter": "sawmill_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:spruce_planks",
+      "count": 3
+    },
+    {
+      "item": "minecraft:stick",
+      "count": 6
+    }
+  ],
+  "min-building-level": 1,
+  "alternate-output" : [
+    {
+      "item": "domum_ornamentum:blockbarreldeco_onside",
+      "count": 1
+    },
+    {
+      "item": "minecraft:barrel",
+      "count": 1
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "domum_ornamentum:blockbarreldeco_standing",
+  "count": 1
+}

@@ -1,6 +1,6 @@
 {
   "type": "recipe",
-  "crafter": "lumberjack_custom",
+  "crafter": "sawmill_crafting",
   "inputs": [
     {
       "item": "minecraft:spruce_planks",
@@ -35,7 +35,15 @@
     },
     {
       "item": "minecraft:ladder",
-      "count": 6
+      "count": 12
+    },
+    {
+      "item": "minecraft:oak_sign",
+      "count": 3
+    },
+    {
+      "item": "minecraft:spruce_sign",
+      "count": 3
     }
   ],
   "intermediate": "minecraft:air",

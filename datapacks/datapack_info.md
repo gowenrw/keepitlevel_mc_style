@@ -129,18 +129,6 @@ do_stone_and_glass:
   item2: glass
 ```
 
-LUMBERJACK
-```yaml
-do_spruce_wood:
-  level: 1
-  crafter: lumberjack_custom
-  item1: spruce_wood
-do_stripped_spruce_wood:
-  level: 1
-  crafter: lumberjack_custom
-  item1: stripped_spruce_wood
-```
-
 MECHANIC
 ```yaml
 do_copper_block:
@@ -165,6 +153,14 @@ do_deepslate_bricks_and_waxed_copper_block:
 
 SAWMILL
 ```yaml
+do_spruce_wood:
+  level: 1
+  crafter: sawmill_custom
+  item1: spruce_wood
+do_stripped_spruce_wood:
+  level: 1
+  crafter: sawmill_custom
+  item1: stripped_spruce_wood
 do_spruce_planks:
   level: 1
   crafter: sawmill_custom
@@ -574,18 +570,6 @@ v_glass:
   item1: glass
 ```
 
-LUMBERJACK
-```yaml
-v_spruce_planks:
-  level: 1
-  crafter: lumberjack_custom
-  item1: spruce_planks
-v_spruce_wood:
-  level: 1
-  crafter: lumberjack_custom
-  item1: spruce_wood
-```
-
 MECHANIC
 ```yaml
 v_copper_block:
@@ -596,6 +580,46 @@ v_waxed_copper_block:
   level: 2
   crafter: mechanic_crafting
   item1: waxed_copper_block
+```
+
+MINER
+```yaml
+v_coal_torch:
+  level: 1
+  crafter: miner_crafting
+  item1: coal
+  item2: stick
+v_charcoal_torch:
+  level: 1
+  crafter: miner_crafting
+  item1: charcoal
+  item2: stick
+```
+
+SAWMILL
+```yaml
+v_spruce_log:
+  level: 1
+  crafter: sawmill_crafting
+  item1: spruce_log
+v_spruce_planks:
+  level: 1
+  crafter: sawmill_crafting
+  item1: spruce_planks
+v_spruce_wood:
+  level: 1
+  crafter: sawmill_crafting
+  item1: spruce_wood
+v_spruce_rack:
+  level: 1
+  crafter: sawmill_crafting
+  item1: spruce_planks
+  item2: iron_nugget
+v_spruce_barrel:
+  level: 1
+  crafter: sawmill_crafting
+  item1: spruce_planks
+  item2: stick
 ```
 
 STONEMASON
@@ -688,7 +712,35 @@ List of base vanilla blocks to base my vanilla crafting on:
 
 ## SMELTING VANILLA ITEMS BY CRAFTER
 
+stonesmeltery
 
+STONESMELTERY
+```yaml
+s_spruce_log:
+  level: 1
+  crafter: stonesmeltery_smelting
+  item1: spruce_log
+s_clay:
+  level: 1
+  crafter: stonesmeltery_smelting
+  item1: clay
+s_clay_ball:
+  level: 1
+  crafter: stonesmeltery_smelting
+  item1: clay_ball
+s_stone_bricks:
+  level: 1
+  crafter: stonesmeltery_smelting
+  item1: stone_bricks
+s_stone:
+  level: 1
+  crafter: stonesmeltery_smelting
+  item1: stone
+s_cobblestone:
+  level: 1
+  crafter: stonesmeltery_smelting
+  item1: cobblestone
+```
 
 
 # Domum Ornamentum Item Info For Recipes
@@ -985,8 +1037,7 @@ Some info gathered on which huts build what types of items and information about
   * NONE
 * Custom Recipes
   * Can be defined but not taught
-  * Vanilla and DO Recipes work here
-  * Recipe Count Limit: ?
+  * NOTE - DEFINING RECIPIES HERE MESSES UP HIS BUILT IN RECIPIES - DONT USE
 
 ## Concretemixer
 
@@ -1085,4 +1136,3 @@ Vanilla block id lookup
 
 Minecraft Wiki for item recipe lookup
 * https://minecraft.wiki/
-

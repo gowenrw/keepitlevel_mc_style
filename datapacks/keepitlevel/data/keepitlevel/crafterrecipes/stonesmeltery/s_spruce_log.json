@@ -1,0 +1,11 @@
+{
+  "type": "recipe",
+  "crafter": "stonesmeltery_smelting",
+  "inputs": [
+    {
+      "item": "minecraft:spruce_log"
+    }
+  ],
+  "intermediate": "minecraft:furnace",
+  "result": "minecraft:charcoal"
+}

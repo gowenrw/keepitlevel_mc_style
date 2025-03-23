@@ -1,0 +1,11 @@
+{
+  "type": "recipe",
+  "crafter": "stonesmeltery_smelting",
+  "inputs": [
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "intermediate": "minecraft:furnace",
+  "result": "minecraft:stone"
+}

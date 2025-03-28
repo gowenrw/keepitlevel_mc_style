@@ -30,87 +30,87 @@
       "count": 1
     },
     {
-      "item": "domum_ornamentum:panel{type:\"vertically_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"VERTICALLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"FULL\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"horizontally_squiggly_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"HORIZONTALLY_SQUIGGLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"porthole\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"PORTHOLE\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"slot\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"SLOT\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"moulding\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"MOULDING\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"waffle\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"WAFFLE\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"boss\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"BOSS\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"coffer\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"COFFER\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"vertically_squiggly_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"VERTICALLY_SQUIGGLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"port_manteau\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"PORT_MANTEAU\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"horizontal_bars\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"HORIZONTAL_BARS\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"horizontally_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"HORIZONTALLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"roundel\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"ROUNDEL\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:panel{type:\"vertical_bars\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:panel{type:\"VERTICAL_BARS\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 4
     },
     {
-      "item": "domum_ornamentum:post{type:\"heavy\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:post{type:\"HEAVY\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:post{type:\"turned\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:post{type:\"TURNED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:post{type:\"plain\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:post{type:\"PLAIN\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:post{type:\"pinched\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:post{type:\"PINCHED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:post{type:\"quad\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:post{type:\"QUAD\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:post{type:\"double\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:post{type:\"DOUBLE\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
@@ -118,19 +118,19 @@
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_doors_compat{type:\"vertically_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_doors_compat{type:\"VERTICALLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_doors_compat{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_doors_compat{type:\"FULL\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_doors_compat{type:\"port_manteau\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_doors_compat{type:\"PORT_MANTEAU\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_doors_compat{type:\"waffle\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_doors_compat{type:\"WAFFLE\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
@@ -142,80 +142,68 @@
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_slab_compat{textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"VERTICALLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_stairs_compat{textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"MOULDING\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"vertically_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"PORT_MANTEAU\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"moulding\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"BOSS\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"port_manteau\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"PORTHOLE\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"boss\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"FULL\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"porthole\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"HORIZONTALLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"SLOT\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"horizontally_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"VERTICAL_BARS\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"slot\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"ROUNDEL\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"vertical_bars\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"WAFFLE\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"roundel\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"HORIZONTAL_BARS\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"waffle\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"HORIZONTALLY_SQUIGGLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"horizontal_bars\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"VERTICALLY_SQUIGGLY_STRIPED\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     },
     {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"horizontally_squiggly_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
-      "count": 1
-    },
-    {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"vertically_squiggly_striped\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
-      "count": 1
-    },
-    {
-      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"coffer\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
-      "count": 1
-    },
-    {
-      "item": "domum_ornamentum:vanilla_wall_compat{textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
+      "item": "domum_ornamentum:vanilla_trapdoors_compat{type:\"COFFER\",textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
       "count": 1
     }
-
   ],
   "intermediate": "minecraft:air",
+  "grid": 3,
   "result": "domum_ornamentum:blockpillar{textureData:{\"minecraft:block/oak_planks\":\"minecraft:stone_bricks\"}}",
   "count": 1
 }

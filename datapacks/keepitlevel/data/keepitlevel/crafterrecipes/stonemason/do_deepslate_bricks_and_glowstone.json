@@ -39,6 +39,7 @@
     }
   ],
   "intermediate": "minecraft:air",
+  "grid": 3,
   "result": "domum_ornamentum:center_light{textureData:{\"minecraft:block/oak_planks\":\"minecraft:deepslate_bricks\",\"minecraft:block/glowstone\":\"minecraft:glowstone\"}}",
   "count": 2
 }

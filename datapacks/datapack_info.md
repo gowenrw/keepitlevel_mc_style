@@ -129,6 +129,18 @@ do_stone_and_glass:
   item2: glass
 ```
 
+LUMBERJACK
+```yaml
+do_spruce_wood:
+  level: 1
+  crafter: lumberjack_custom
+  item1: spruce_wood
+do_stripped_spruce_wood:
+  level: 1
+  crafter: lumberjack_custom
+  item1: stripped_spruce_wood
+```
+
 MECHANIC
 ```yaml
 do_copper_block:
@@ -153,14 +165,6 @@ do_deepslate_bricks_and_waxed_copper_block:
 
 SAWMILL
 ```yaml
-do_spruce_wood:
-  level: 1
-  crafter: sawmill_custom
-  item1: spruce_wood
-do_stripped_spruce_wood:
-  level: 1
-  crafter: sawmill_custom
-  item1: stripped_spruce_wood
 do_spruce_planks:
   level: 1
   crafter: sawmill_custom
@@ -576,6 +580,16 @@ v_copper_block:
   level: 1
   crafter: mechanic_crafting
   item1: copper_block
+v_coal_torch:
+  level: 1
+  crafter: mechanic_crafting
+  item1: coal
+  item2: stick
+v_charcoal_torch:
+  level: 1
+  crafter: mechanic_crafting
+  item1: charcoal
+  item2: stick
 v_waxed_copper_block:
   level: 2
   crafter: mechanic_crafting
@@ -1037,7 +1051,7 @@ Some info gathered on which huts build what types of items and information about
   * NONE
 * Custom Recipes
   * Can be defined but not taught
-  * NOTE - DEFINING RECIPIES HERE MESSES UP HIS BUILT IN RECIPIES - DONT USE
+  * Recipe Count Limit: ?
 
 ## Concretemixer
 
@@ -1136,3 +1150,40 @@ Vanilla block id lookup
 
 Minecraft Wiki for item recipe lookup
 * https://minecraft.wiki/
+
+
+
+
+
+rack
+6 planks 2 iron nug = 1 rack
+sawmill
+blacksmith
+
+crafting table
+4 planks = 1
+sawmill
+
+
+mudbricks
+4 packed mud = 4 mud bricks
+1 mud 1 wheat = 1 packed mud
+1 dirt 1 water = 1 mud
+farmer
+
+lantern
+8 iron nug 1 torch = 1 lantern
+mechanic
+
+haybale
+9 wheat = 1 hay bale
+farmer
+baker
+
+
+
+furnace
+8 cobblestone = 1 furnace
+stonemason
+
+

@@ -22,19 +22,19 @@
       "count": 4
     },
     {
-      "item": "domum_ornamentum:fancy_door{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
+      "item": "domum_ornamentum:fancy_door{type:\"FULL\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
       "count": 2
     },
     {
-      "item": "domum_ornamentum:fancy_door{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
+      "item": "domum_ornamentum:fancy_door{type:\"CREEPER\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
       "count": 2
     },
     {
-      "item": "domum_ornamentum:fancy_trapdoors{type:\"creeper\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
+      "item": "domum_ornamentum:fancy_trapdoors{type:\"CREEPER\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
       "count": 2
     },
     {
-      "item": "domum_ornamentum:fancy_trapdoors{type:\"full\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
+      "item": "domum_ornamentum:fancy_trapdoors{type:\"FULL\",textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/acacia_planks\":\"minecraft:deepslate_bricks\"}}",
       "count": 2
     },
     {
@@ -87,6 +87,7 @@
     }
   ],
   "intermediate": "minecraft:air",
+  "grid": 3,
   "result": "domum_ornamentum:blockpaperwall{textureData:{\"minecraft:block/oak_planks\":\"domum_ornamentum:lime_brick_extra\",\"minecraft:block/dark_oak_planks\":\"minecraft:deepslate_bricks\"}}",
   "count": 6
 }

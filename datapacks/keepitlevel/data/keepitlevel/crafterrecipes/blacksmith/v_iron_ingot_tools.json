@@ -1,0 +1,36 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 3
+    },
+    {
+      "item": "minecraft:stick",
+      "count": 2
+    }
+  ],
+  "min-building-level": 2,
+  "alternate-output" : [
+    {
+      "item": "minecraft:iron_axe",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_shovel",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_hoe",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "count": 1
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "minecraft:iron_pickaxe",
+  "count": 1
+}

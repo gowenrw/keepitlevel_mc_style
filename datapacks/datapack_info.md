@@ -566,6 +566,57 @@ List of base vanilla blocks to base my vanilla crafting on:
 
 ## CRAFTING VANILLA ITEMS BY CRAFTER
 
+BLACKSMITH
+```yaml
+v_cobblestone_tools:
+  level: 1
+  crafter: blacksmith_crafting
+  item1: cobblestone
+  item2: stick
+v_spruce_rack:
+  level: 1
+  crafter: blacksmith_crafting
+  item1: spruce_planks
+  item2: iron_nugget
+v_iron_ingot_tools:
+  level: 2
+  crafter: blacksmith_crafting
+  item1: iron_ingot
+  item2: stick
+```
+
+FARMER
+```yaml
+v_packed_mud:
+  level: 1
+  crafter: farmer_crafting
+  item1: mud
+  item2: wheat
+v_mud_bricks:
+  level: 1
+  crafter: farmer_crafting
+  item1: packed_mud
+v_hay_bale:
+  level: 1
+  crafter: farmer_crafting
+  item1: wheat
+```
+
+FLETCHER
+```yaml
+v_bow:
+  level: 1
+  crafter: fletcher_crafting
+  item1: stick
+  item2: string
+v_arrow:
+  level: 1
+  crafter: fletcher_crafting
+  item1: flint
+  item2: stick
+  item3: feather
+```
+
 GLASSBLOWER
 ```yaml
 v_glass:
@@ -590,6 +641,11 @@ v_charcoal_torch:
   crafter: mechanic_crafting
   item1: charcoal
   item2: stick
+v_lantern:
+  level: 1
+  crafter: mechanic_crafting
+  item1: iron_nugget
+  item2: torch
 v_waxed_copper_block:
   level: 2
   crafter: mechanic_crafting
@@ -634,6 +690,10 @@ v_spruce_barrel:
   crafter: sawmill_crafting
   item1: spruce_planks
   item2: stick
+v_spruce_crafting_table:
+  level: 1
+  crafter: sawmill_crafting
+  item1: spruce_planks
 ```
 
 STONEMASON
@@ -646,6 +706,10 @@ v_stone:
   level: 1
   crafter: stonemason_crafting
   item1: stone
+v_furnace:
+  level: 1
+  crafter: stonemason_crafting
+  item1: cobblestone
 v_andesite:
   level: 2
   crafter: stonemason_crafting
@@ -1125,7 +1189,7 @@ Some info gathered on which huts build what types of items and information about
 * Crafting Recipes
   * Teachable
   * Vanilla 3x3 Recipes
-  * Recipe Count Limit: 1/15, 2/20, 3/40, 4/80, 5/160 <only lvl1 confirmed>
+  * Recipe Count Limit: 1/15, 2/25, 3/45, 4/85, 5/165
 * Custom Recipes
   * Teachable
   * DO Recipes
@@ -1150,40 +1214,3 @@ Vanilla block id lookup
 
 Minecraft Wiki for item recipe lookup
 * https://minecraft.wiki/
-
-
-
-
-
-rack
-6 planks 2 iron nug = 1 rack
-sawmill
-blacksmith
-
-crafting table
-4 planks = 1
-sawmill
-
-
-mudbricks
-4 packed mud = 4 mud bricks
-1 mud 1 wheat = 1 packed mud
-1 dirt 1 water = 1 mud
-farmer
-
-lantern
-8 iron nug 1 torch = 1 lantern
-mechanic
-
-haybale
-9 wheat = 1 hay bale
-farmer
-baker
-
-
-
-furnace
-8 cobblestone = 1 furnace
-stonemason
-
-

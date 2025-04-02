@@ -790,8 +790,6 @@ List of base vanilla blocks to base my vanilla crafting on:
 
 ## SMELTING VANILLA ITEMS BY CRAFTER
 
-stonesmeltery
-
 STONESMELTERY
 ```yaml
 s_spruce_log:

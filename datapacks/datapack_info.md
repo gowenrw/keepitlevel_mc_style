@@ -578,11 +578,23 @@ v_spruce_rack:
   crafter: blacksmith_crafting
   item1: spruce_planks
   item2: iron_nugget
+v_iron_nuggets:
+  level: 1
+  crafter: blacksmith_crafting
+  item1: iron_ingot
+v_cauldron:
+  level: 2
+  crafter: blacksmith_crafting
+  item1: iron_ingot
 v_iron_ingot_tools:
   level: 2
   crafter: blacksmith_crafting
   item1: iron_ingot
   item2: stick
+v_lightning_rod:
+  level: 2
+  crafter: blacksmith_crafting
+  item1: copper_ingot
 ```
 
 FARMER
@@ -615,6 +627,11 @@ v_arrow:
   item1: flint
   item2: stick
   item3: feather
+v_spruce_bed:
+  level: 1
+  crafter: fletcher_crafting
+  item1: white_wool
+  item2: spruce_planks
 ```
 
 GLASSBLOWER
@@ -631,6 +648,10 @@ v_copper_block:
   level: 1
   crafter: mechanic_crafting
   item1: copper_block
+v_copper_ingot:
+  level: 1
+  crafter: mechanic_crafting
+  item1: copper_ingot
 v_coal_torch:
   level: 1
   crafter: mechanic_crafting
@@ -641,6 +662,10 @@ v_charcoal_torch:
   crafter: mechanic_crafting
   item1: charcoal
   item2: stick
+v_iron_ingot:
+  level: 1
+  crafter: mechanic_crafting
+  item1: iron_ingot
 v_lantern:
   level: 1
   crafter: mechanic_crafting
@@ -789,6 +814,18 @@ List of base vanilla blocks to base my vanilla crafting on:
 
 
 ## SMELTING VANILLA ITEMS BY CRAFTER
+
+GLASSBLOWER
+```yaml
+s_sand:
+  level: 1
+  crafter: glassblower_crafting
+  item1: sand
+s_red_sand:
+  level: 1
+  crafter: glassblower_crafting
+  item1: red_sand
+```
 
 STONESMELTERY
 ```yaml
@@ -1212,3 +1249,4 @@ Vanilla block id lookup
 
 Minecraft Wiki for item recipe lookup
 * https://minecraft.wiki/
+

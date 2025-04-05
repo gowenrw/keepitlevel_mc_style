@@ -1,0 +1,11 @@
+{
+  "type": "recipe",
+  "crafter": "glassblower_smelting",
+  "inputs": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "intermediate": "minecraft:furnace",
+  "result": "minecraft:glass"
+}

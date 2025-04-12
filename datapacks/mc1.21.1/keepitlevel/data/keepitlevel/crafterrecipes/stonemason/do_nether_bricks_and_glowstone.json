@@ -1,0 +1,89 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_domum",
+  "inputs": [
+    {
+      "id": "minecraft:nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glowstone",
+      "count": 1
+    }
+  ],
+  "min-building-level": 3,
+  "alternate-output" : [
+    {
+      "id": "domum_ornamentum:crossed_light",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:nether_bricks",
+          "minecraft:block/glowstone": "minecraft:glowstone"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:fancy_light",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:nether_bricks",
+          "minecraft:block/glowstone": "minecraft:glowstone"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:four_light",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:nether_bricks",
+          "minecraft:block/glowstone": "minecraft:glowstone"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:framed_light",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:nether_bricks",
+          "minecraft:block/glowstone": "minecraft:glowstone"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:horizontal_light",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:nether_bricks",
+          "minecraft:block/glowstone": "minecraft:glowstone"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:vertical_light",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:nether_bricks",
+          "minecraft:block/glowstone": "minecraft:glowstone"
+        }
+      },
+      "count": 2
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "grid": 3,
+  "result": {
+    "id": "domum_ornamentum:center_light",
+    "components": {
+      "domum_ornamentum:texture_data": {
+        "minecraft:block/oak_planks": "minecraft:nether_bricks",
+        "minecraft:block/glowstone": "minecraft:glowstone"
+      }
+    },
+    "count": 2
+  }
+}

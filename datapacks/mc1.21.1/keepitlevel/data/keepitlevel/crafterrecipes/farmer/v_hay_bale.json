@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:wheat",
+      "count": 9
+    }
+  ],
+  "min-building-level": 1,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:hay_block",
+    "count": 1
+  }
+}

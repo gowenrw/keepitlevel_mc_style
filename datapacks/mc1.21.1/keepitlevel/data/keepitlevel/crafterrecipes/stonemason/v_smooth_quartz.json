@@ -1,0 +1,22 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:smooth_quartz",
+      "count": 6
+    }
+  ],
+  "min-building-level": 3,
+  "alternate-output" : [
+    {
+      "id": "minecraft:smooth_quartz_slab",
+      "count": 12
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:smooth_quartz_stairs",
+    "count": 4
+  }
+}

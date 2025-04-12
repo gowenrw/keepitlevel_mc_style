@@ -1,0 +1,22 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:dark_prismarine",
+      "count": 6
+    }
+  ],
+  "min-building-level": 4,
+  "alternate-output" : [
+    {
+      "id": "minecraft:dark_prismarine_slab",
+      "count": 12
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:dark_prismarine_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:stone_bricks",
+      "count": 6
+    }
+  ],
+  "min-building-level": 2,
+  "alternate-output" : [
+    {
+      "id": "minecraft:stone_brick_slab",
+      "count": 12
+    },
+    {
+      "id": "minecraft:stone_brick_wall",
+      "count": 6
+    },
+    {
+      "id": "minecraft:chiseled_stone_bricks",
+      "count": 6
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:stone_brick_stairs",
+    "count": 4
+  }
+}

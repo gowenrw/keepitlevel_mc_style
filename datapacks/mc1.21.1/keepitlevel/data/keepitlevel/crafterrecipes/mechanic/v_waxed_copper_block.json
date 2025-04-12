@@ -1,0 +1,26 @@
+{
+  "type": "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:waxed_copper_block",
+      "count": 6
+    }
+  ],
+  "min-building-level": 2,
+  "alternate-output" : [
+    {
+      "id": "minecraft:waxed_cut_copper_slab",
+      "count": 12
+    },
+    {
+      "id": "minecraft:waxed_cut_copper_stairs",
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:waxed_cut_copper",
+    "count": 6
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:andesite",
+      "count": 6
+    }
+  ],
+  "min-building-level": 2,
+  "alternate-output" : [
+    {
+      "id": "minecraft:andesite_slab",
+      "count": 12
+    },
+    {
+      "id": "minecraft:andesite_wall",
+      "count": 6
+    },
+    {
+      "id": "minecraft:polished_andesite",
+      "count": 6
+    },
+    {
+      "id": "minecraft:polished_andesite_stairs",
+      "count": 4
+    },
+    {
+      "id": "minecraft:polished_andesite_slab",
+      "count": 12
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:andesite_stairs",
+    "count": 4
+  }
+}

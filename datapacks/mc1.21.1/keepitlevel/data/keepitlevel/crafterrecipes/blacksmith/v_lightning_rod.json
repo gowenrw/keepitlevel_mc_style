@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:copper_ingot",
+      "count": 3
+    }
+  ],
+  "min-building-level": 2,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:lightning_rod",
+    "count": 1
+  }
+}

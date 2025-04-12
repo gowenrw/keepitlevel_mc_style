@@ -1,0 +1,26 @@
+{
+  "type": "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 9
+    }
+  ],
+  "min-building-level": 2,
+  "alternate-output" : [
+    {
+      "id": "minecraft:raw_iron",
+      "count": 9
+    },
+    {
+      "id": "minecraft:raw_iron_block",
+      "count": 1
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:iron_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:spruce_planks",
+      "count": 6
+    },
+    {
+      "id": "minecraft:iron_nugget",
+      "count": 2
+    }
+  ],
+  "min-building-level": 1,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecolonies:blockminecoloniesrack",
+    "count": 1
+  }
+}

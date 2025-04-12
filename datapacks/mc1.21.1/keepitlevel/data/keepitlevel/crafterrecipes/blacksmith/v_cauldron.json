@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 7
+    }
+  ],
+  "min-building-level": 2,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:cauldron",
+    "count": 1
+  }
+}

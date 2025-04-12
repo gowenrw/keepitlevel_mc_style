@@ -1,0 +1,30 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:deepslate_bricks",
+      "count": 6
+    }
+  ],
+  "min-building-level": 4,
+  "alternate-output" : [
+    {
+      "id": "minecraft:deepslate_brick_slab",
+      "count": 12
+    },
+    {
+      "id": "minecraft:deepslate_brick_wall",
+      "count": 6
+    },
+    {
+      "id": "minecraft:deepslate_tiles",
+      "count": 6
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:deepslate_brick_stairs",
+    "count": 4
+  }
+}

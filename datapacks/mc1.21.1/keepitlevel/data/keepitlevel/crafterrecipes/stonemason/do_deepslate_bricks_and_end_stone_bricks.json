@@ -1,0 +1,221 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_domum",
+  "inputs": [
+    {
+      "id": "minecraft:deepslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_stone_bricks",
+      "count": 1
+    }
+  ],
+  "min-building-level": 5,
+  "alternate-output" : [
+    {
+      "id": "domum_ornamentum:double_crossed",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:down_gated",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:fancy_door",
+      "components": {
+        "minecraft:block_state": {
+          "type": "full"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/acacia_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:fancy_door",
+      "components": {
+        "minecraft:block_state": {
+          "type": "creeper"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/acacia_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:fancy_trapdoors",
+      "components": {
+        "minecraft:block_state": {
+          "type": "creeper"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/acacia_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:fancy_trapdoors",
+      "components": {
+        "minecraft:block_state": {
+          "type": "full"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/acacia_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 2
+    },
+    {
+      "id": "domum_ornamentum:framed",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:horizontal_plain",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:one_crossed_lr",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:one_crossed_rl",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:plain",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:shingle",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/clay": "minecraft:deepslate_bricks",
+          "minecraft:block/oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:shingle_flat",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/clay": "minecraft:deepslate_bricks",
+          "minecraft:block/oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:shingle_flat_lower",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/clay": "minecraft:deepslate_bricks",
+          "minecraft:block/oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:shingle_slab",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:side_framed",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:side_framed_horizontal",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:up_gated",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+          "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+        }
+      },
+      "count": 4
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "grid": 3,
+  "result": {
+    "id": "domum_ornamentum:blockpaperwall",
+    "components": {
+      "domum_ornamentum:texture_data": {
+        "minecraft:block/oak_planks": "minecraft:deepslate_bricks",
+        "minecraft:block/dark_oak_planks": "minecraft:end_stone_bricks"
+      }
+    },
+    "count": 6
+  }
+}

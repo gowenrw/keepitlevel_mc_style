@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "sawmill_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:spruce_wood",
+      "count": 1
+    }
+  ],
+  "min-building-level": 1,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:spruce_planks",
+    "count": 4
+  }
+}

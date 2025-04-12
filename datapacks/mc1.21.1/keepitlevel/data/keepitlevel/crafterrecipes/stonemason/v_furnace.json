@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:cobblestone",
+      "count": 8
+    }
+  ],
+  "min-building-level": 1,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:furnace",
+    "count": 1
+  }
+}

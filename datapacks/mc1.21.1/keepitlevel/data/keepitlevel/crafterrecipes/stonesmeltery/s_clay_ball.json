@@ -1,0 +1,13 @@
+{
+  "type": "recipe",
+  "crafter": "stonesmeltery_smelting",
+  "inputs": [
+    {
+      "id": "minecraft:clay_ball"
+    }
+  ],
+  "intermediate": "minecraft:furnace",
+  "result": {
+    "id": "minecraft:brick"
+  }
+}

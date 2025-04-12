@@ -1,0 +1,30 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:cobbled_deepslate",
+      "count": 6
+    }
+  ],
+  "min-building-level": 4,
+  "alternate-output" : [
+    {
+      "id": "minecraft:cobbled_deepslate_slab",
+      "count": 12
+    },
+    {
+      "id": "minecraft:cobbled_deepslate_wall",
+      "count": 6
+    },
+    {
+      "id": "minecraft:polished_deepslate",
+      "count": 6
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:cobbled_deepslate_stairs",
+    "count": 4
+  }
+}

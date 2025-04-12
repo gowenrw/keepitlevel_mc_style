@@ -1,0 +1,16 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:packed_mud",
+      "count": 4
+    }
+  ],
+  "min-building-level": 1,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:mud_bricks",
+    "count": 4
+  }
+}

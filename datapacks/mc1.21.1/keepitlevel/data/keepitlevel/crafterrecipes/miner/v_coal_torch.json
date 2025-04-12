@@ -1,0 +1,20 @@
+{
+  "type": "recipe",
+  "crafter": "miner_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:coal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stick",
+      "count": 1
+    }
+  ],
+  "min-building-level": 1,
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:torch",
+    "count": 4
+  }
+}

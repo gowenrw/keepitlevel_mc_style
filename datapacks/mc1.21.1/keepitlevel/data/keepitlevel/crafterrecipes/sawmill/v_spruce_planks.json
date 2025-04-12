@@ -1,0 +1,54 @@
+{
+  "type": "recipe",
+  "crafter": "sawmill_crafting",
+  "inputs": [
+    {
+      "id": "minecraft:spruce_planks",
+      "count": 6
+    }
+  ],
+  "min-building-level": 1,
+  "alternate-output" : [
+    {
+      "id": "minecraft:spruce_slab",
+      "count": 12
+    },
+    {
+      "id": "minecraft:spruce_door",
+      "count": 3
+    },
+    {
+      "id": "minecraft:spruce_trapdoor",
+      "count": 2
+    },
+    {
+      "id": "minecraft:spruce_fence",
+      "count": 4
+    },
+    {
+      "id": "minecraft:spruce_fence_gate",
+      "count": 2
+    },
+    {
+      "id": "minecraft:stick",
+      "count": 12
+    },
+    {
+      "id": "minecraft:ladder",
+      "count": 12
+    },
+    {
+      "id": "minecraft:oak_sign",
+      "count": 3
+    },
+    {
+      "id": "minecraft:spruce_sign",
+      "count": 3
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": {
+    "id": "minecraft:spruce_stairs",
+    "count": 4
+  }
+}

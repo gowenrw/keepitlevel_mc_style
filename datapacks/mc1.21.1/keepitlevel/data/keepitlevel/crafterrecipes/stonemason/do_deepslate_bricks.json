@@ -1,0 +1,576 @@
+{
+  "type": "recipe",
+  "crafter": "stonemason_domum",
+  "inputs": [
+    {
+      "id": "minecraft:deepslate_bricks",
+      "count": 1
+    }
+  ],
+  "min-building-level": 4,
+  "alternate-output" : [
+    {
+      "id": "domum_ornamentum:blockypillar",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:dark_brick",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:dark_brick_stair",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:light_brick",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:light_brick_stair",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "vertically_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "full"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "horizontally_squiggly_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "porthole"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "slot"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "moulding"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "waffle"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "boss"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "coffer"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "vertically_squiggly_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "port_manteau"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "horizontal_bars"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "horizontally_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "roundel"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:panel",
+      "components": {
+        "minecraft:block_state": {
+          "type": "vertical_bars"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 4
+    },
+    {
+      "id": "domum_ornamentum:post",
+      "components": {
+        "minecraft:block_state": {
+          "type": "heavy"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:post",
+      "components": {
+        "minecraft:block_state": {
+          "type": "turned"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:post",
+      "components": {
+        "minecraft:block_state": {
+          "type": "plain"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:post",
+      "components": {
+        "minecraft:block_state": {
+          "type": "pinched"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:post",
+      "components": {
+        "minecraft:block_state": {
+          "type": "quad"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:post",
+      "components": {
+        "minecraft:block_state": {
+          "type": "double"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:squarepillar",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_doors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "vertically_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_doors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "full"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_doors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "port_manteau"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_doors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "waffle"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_fence_compat",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_fence_gate_compat",
+      "components": {
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "vertically_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "moulding"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "port_manteau"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "boss"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "porthole"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "full"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "horizontally_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "slot"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "vertical_bars"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "roundel"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "waffle"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "horizontal_bars"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "horizontally_squiggly_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "vertically_squiggly_striped"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    },
+    {
+      "id": "domum_ornamentum:vanilla_trapdoors_compat",
+      "components": {
+        "minecraft:block_state": {
+          "type": "coffer"
+        },
+        "domum_ornamentum:texture_data": {
+          "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+        }
+      },
+      "count": 1
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "grid": 3,
+  "result": {
+    "id": "domum_ornamentum:blockpillar",
+    "components": {
+      "domum_ornamentum:texture_data": {
+        "minecraft:block/oak_planks": "minecraft:deepslate_bricks"
+      }
+    },
+    "count": 1
+  }
+}

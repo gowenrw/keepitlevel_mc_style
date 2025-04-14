@@ -8,16 +8,6 @@
     }
   ],
   "min-building-level": 2,
-  "alternate-output" : [
-    {
-      "id": "minecraft:raw_copper",
-      "count": 9
-    },
-    {
-      "id": "minecraft:raw_copper_block",
-      "count": 1
-    }
-  ],
   "intermediate": "minecraft:air",
   "result": {
     "id": "minecraft:copper_block",
